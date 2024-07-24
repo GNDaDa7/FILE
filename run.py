@@ -32,7 +32,7 @@ def file_harry():
         import data.FILE32
         data.FILE32.follow_harry()
         data.FILE32.login()
-    elif architecture[0] == '64bit':
+     elif architecture[0] == '64bit':
         arc = "64BIT"
         print(f' •\x1b[38;5;196m ->\x1b[37m 64BIT DETECTED');time.sleep(1)
         print(f' •\x1b[38;5;196m ->\x1b[37m STARTING FILE TOOL ');time.sleep(1)
